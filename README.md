@@ -11,5 +11,9 @@ https://github.com/jbee37142/Interview_Question_for_Beginner?tab=readme-ov-file#
 
 https://github.com/cracking-interview/be-interview/tree/main
 
-### 최종 목표
+## 스터디 일정
+월 오전 10시 ~ 12시, 1시 ~ 3시
+목 오전 10시 ~ 12시
+
+## 최종 목표
 김준수, 김지오, 원종윤의 CS 깃허브 완성하기
