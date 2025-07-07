@@ -11,6 +11,9 @@ https://github.com/jbee37142/Interview_Question_for_Beginner?tab=readme-ov-file#
 
 https://github.com/cracking-interview/be-interview/tree/main
 
+## 대회 및 이벤트 일정
+https://github.com/brave-people/Dev-Event
+
 ## 스터디 일정
 월 오전 10시 ~ 12시, 1시 ~ 3시
 목 오전 10시 ~ 12시
